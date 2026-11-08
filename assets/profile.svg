@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="252" viewBox="0 0 896 252" role="img" aria-labelledby="title description">
+  <title id="title">Léo · Data science et développement Python</title>
+  <desc id="description">Bannière bleu nuit avec deux séries de données décoratives dans une grille.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101B32"/>
+      <stop offset="1" stop-color="#090E1B"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" x2="0" y1="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#65F0C5" stop-opacity=".23"/>
+      <stop offset="1" stop-color="#65F0C5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="chart-line" x1="0" x2="1" y1="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#47ACB9"/>
+      <stop offset="1" stop-color="#8AFFCD"/>
+    </linearGradient>
+    <radialGradient id="light">
+      <stop stop-color="#1A735F" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#1A735F" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="24" patternUnits="userSpaceOnUse" x="574" y="79">
+      <path d="M28 0H0V24" fill="none" stroke="#283650" stroke-width="1"/>
+    </pattern>
+    <clipPath id="banner">
+      <rect x="1" y="1" width="894" height="250" rx="24"/>
+    </clipPath>
+  </defs>
+  <style>
+    .signal {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: pulse 3.2s ease-out 3;
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: .5; }
+      55% { transform: scale(1.65); opacity: .12; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .signal { animation: none; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="894" height="250" rx="24" fill="url(#background)" stroke="#344561" stroke-width="2"/>
+  <ellipse cx="748" cy="111" rx="278" ry="192" fill="url(#light)" clip-path="url(#banner)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <rect x="46" y="31" width="134" height="30" rx="15" fill="#132D37" stroke="#2C554E"/>
+    <circle cx="62" cy="46" r="3.5" fill="#78F5C3"/>
+    <text x="75" y="50.5" font-size="12" font-weight="700" letter-spacing="1.5" fill="#ABF8D8">@LEOBGN</text>
+  </g>
+
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <text x="43" y="132" font-size="70" font-weight="750" letter-spacing="-3" fill="#F1F5FF">Léo</text>
+    <text x="46" y="174" font-size="26" font-weight="650" letter-spacing="-.45" fill="#F1F5FF">Data science &amp; développement Python</text>
+    <text x="47" y="209" font-size="16" letter-spacing=".4" fill="#ACBBD5">Analyse de données  ·  CRM  ·  Applications web</text>
+  </g>
+
+  <g>
+    <rect x="552" y="31" width="298" height="190" rx="16" fill="#0D1728" stroke="#31445A"/>
+    <path d="M553 66H849" stroke="#26374D"/>
+    <circle cx="571" cy="49" r="2.5" fill="#78F5C3"/>
+    <circle cx="582" cy="49" r="2.5" fill="#8293BC"/>
+    <circle cx="593" cy="49" r="2.5" fill="#4D5C77"/>
+    <path d="M811 47h19m-11 5h11" stroke="#7E92AE" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="574" y="79" width="252" height="120" fill="url(#grid)" stroke="#283650"/>
+    <path d="M574 185 602 164 630 171 658 149 686 154 714 123 742 130 770 103 798 110 826 91V199H574Z" fill="url(#area)"/>
+    <path d="M574 166 602 177 630 151 658 163 686 137 714 145 742 116 770 129 798 119 826 126" fill="none" stroke="#A6A0FA" stroke-opacity=".72" stroke-width="1.8" stroke-dasharray="3 5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M574 185 602 164 630 171 658 149 686 154 714 123 742 130 770 103 798 110 826 91" fill="none" stroke="url(#chart-line)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#9BFFD5">
+      <circle cx="658" cy="149" r="2.5"/>
+      <circle cx="714" cy="123" r="2.5"/>
+      <circle cx="770" cy="103" r="2.5"/>
+      <circle cx="826" cy="91" r="3.5"/>
+    </g>
+    <circle class="signal" cx="826" cy="91" r="7.5" fill="none" stroke="#8AFFCD" stroke-width="1.5" opacity=".5"/>
+  </g>
+</svg>
