@@ -1,6 +1,6 @@
 ![Léo Bugyan · Data science et développement Python](./assets/profile.svg)
 
-**[Explorer mes projets](#projets) · [Jouer au défi SQL](#défi-sql) · [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-bugyan-278158357/) · [M’écrire](mailto:bugyan.leo@gmail.com)**
+**[Explorer mes projets](#projets) · [Jouer au défi SQL](#défi-sql) · [Voir le serpent](#contributions) · [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-bugyan-278158357/) · [M’écrire](mailto:bugyan.leo@gmail.com)**
 
 Étudiant en data science, je développe des outils Python pour nettoyer des données, en tirer des indicateurs et les rendre accessibles dans des applications métier.
 
@@ -80,7 +80,20 @@ ORDER BY clients DESC;
 
 ## Stack
 
-<kbd>Python</kbd> &nbsp; <kbd>SQL</kbd> &nbsp; <kbd>pandas</kbd> &nbsp; <kbd>NumPy</kbd> &nbsp; <kbd>Django</kbd> &nbsp; <kbd>JavaScript</kbd> &nbsp; <kbd>HTML/CSS</kbd> &nbsp; <kbd>Git</kbd>
+![Python](https://img.shields.io/badge/Python-325B86?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-405B7A?style=for-the-badge)
+![pandas](https://img.shields.io/badge/pandas-473877?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-355786?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-135946?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F4D74E?style=for-the-badge&logo=javascript&logoColor=252017)
+![HTML5](https://img.shields.io/badge/HTML5-B6432B?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-A2382B?style=for-the-badge&logo=git&logoColor=white)
+
+## Contributions
+
+![Serpent animé qui mange les cases colorées du calendrier de contributions visible sur mon profil GitHub.](./assets/contribution-snake.svg)
 
 ## Open source
 
