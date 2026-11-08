@@ -291,7 +291,7 @@
 <rect x="599" y="72" width="11" height="11" rx="3" fill="#283550"/>
 <rect x="599" y="87" width="11" height="11" rx="3" fill="#283550"/>
 <rect x="599" y="102" width="11" height="11" rx="3" fill="#283550"/>
-<rect x="599" y="117" width="11" height="11" rx="3" fill="#4b6194" class="food" style="--at:0.741s;--restore:4.550s;--color:#4b6194"/>
+<rect x="599" y="117" width="11" height="11" rx="3" fill="#d0b8ff" class="food" style="--at:0.741s;--restore:4.550s;--color:#d0b8ff"/>
 <rect x="599" y="132" width="11" height="11" rx="3" fill="#283550"/>
 <rect x="599" y="147" width="11" height="11" rx="3" fill="#283550"/>
 <rect x="599" y="162" width="11" height="11" rx="3" fill="#283550"/>
@@ -322,7 +322,7 @@
 <rect x="659" y="102" width="11" height="11" rx="3" fill="#283550"/>
 <rect x="659" y="117" width="11" height="11" rx="3" fill="#283550"/>
 <rect x="659" y="132" width="11" height="11" rx="3" fill="#283550"/>
-<rect x="659" y="147" width="11" height="11" rx="3" fill="#4b6194" class="food" style="--at:1.630s;--restore:4.550s;--color:#4b6194"/>
+<rect x="659" y="147" width="11" height="11" rx="3" fill="#d0b8ff" class="food" style="--at:1.630s;--restore:4.550s;--color:#d0b8ff"/>
 <rect x="659" y="162" width="11" height="11" rx="3" fill="#283550"/>
 <rect x="674" y="72" width="11" height="11" rx="3" fill="#283550"/>
 <rect x="674" y="87" width="11" height="11" rx="3" fill="#283550"/>
