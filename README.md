@@ -94,7 +94,3 @@ ORDER BY clients DESC;
 ## Contributions
 
 ![Serpent animé qui mange les cases colorées du calendrier de contributions visible sur mon profil GitHub.](./assets/contribution-snake.svg)
-
-## Open source
-
-**Wand Enhancer** · J’ai corrigé un problème de compatibilité qui empêchait le chargement d’une DLL après une mise à jour du client Windows. [Voir le correctif fusionné dans mon fork](https://github.com/LeoBgn/Wand-Enhancer/pull/1)
